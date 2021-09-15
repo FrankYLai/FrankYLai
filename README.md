@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Frank Lai
 - 👀 I’m interested in Robotics and AI
 - 🌱 I’m currently learning control theory and artificial intelligence for robotics
-- 💞️ I’m looking to collaborate on AI/Embedded systesm projects
+- 💞️ I’m looking to collaborate on AI/Embedded system projects
 - 📫 Reach me at fylai@uwaterloo.ca
 
 <!---
